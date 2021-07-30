@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-
-[![Profile badge](https://www.codewars.com/users/VadimProkopchuk/badges/large)](https://www.codewars.com/users/VadimProkopchuk)
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-prokopchuk/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailvadimprokopchuk@gmail.com)
+[![Profile badge](https://www.codewars.com/users/VadimProkopchuk/badges/large)](https://www.codewars.com/users/VadimProkopchuk) [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-prokopchuk/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailvadimprokopchuk@gmail.com)
 
 
 <!--
